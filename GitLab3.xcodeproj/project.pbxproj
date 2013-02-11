@@ -19,6 +19,7 @@
 		4DC7F5C916C945A300775DA7 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DC7F5C716C945A300775DA7 /* MainStoryboard_iPhone.storyboard */; };
 		4DC7F5CC16C945A300775DA7 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DC7F5CA16C945A300775DA7 /* MainStoryboard_iPad.storyboard */; };
 		4DC7F5CF16C945A300775DA7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DC7F5CE16C945A300775DA7 /* ViewController.m */; };
+		4DC7F5D616C946E700775DA7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4DC7F5D516C946E700775DA7 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		4DC7F5CB16C945A300775DA7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		4DC7F5CD16C945A300775DA7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		4DC7F5CE16C945A300775DA7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		4DC7F5D516C946E700775DA7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		4DC7F5A316C945A200775DA7 = {
 			isa = PBXGroup;
 			children = (
+				4DC7F5D516C946E700775DA7 /* README.md */,
 				4DC7F5B516C945A200775DA7 /* GitLab3 */,
 				4DC7F5AE16C945A200775DA7 /* Frameworks */,
 				4DC7F5AD16C945A200775DA7 /* Products */,
@@ -167,6 +170,7 @@
 				4DC7F5C616C945A300775DA7 /* Default-568h@2x.png in Resources */,
 				4DC7F5C916C945A300775DA7 /* MainStoryboard_iPhone.storyboard in Resources */,
 				4DC7F5CC16C945A300775DA7 /* MainStoryboard_iPad.storyboard in Resources */,
+				4DC7F5D616C946E700775DA7 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
